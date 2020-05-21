@@ -11,10 +11,10 @@
 1. Break the dough into all of the individual quiches dough balls.
 1. Then spread each ball into its own cupcake pan hole.
 
-```
-Bake dough for **15 min 200 c / 392 f**.
-After the pre-baking poke some holes with a fork.
-```
+
+> Bake dough for **15 min 200 c / 392 f**.
+> After the pre-baking poke some holes with a fork.
+
 
 ## Filling Base
 * **4 eggs** (or more if you want it to be more eggy)
@@ -27,6 +27,5 @@ After the pre-baking poke some holes with a fork.
 * mushrooms
 * tomato
 
-```
-Bake everything for **50 - 60 min 200 c / 392 f**
-```
+
+> Bake everything for **50 - 60 min 200 c / 392 f**
